@@ -1,0 +1,93 @@
+[
+  {
+    "language": "english",
+    "sentences": [
+      "The quick brown fox jumps over the lazy dog",
+      "She sells seashells by the seashore",
+      "Peter Piper picked a peck of pickled peppers",
+      "How can a clam cram in a clean cream can?",
+      "Six sleek swans swam swiftly southwards"
+    ],
+    "voices": ["karen", "lee", "rishi", "veena", "moira", "fiona", "tessa", "alex", "bruce", "fred", "junior", "ralph", "tom", "agnes", "allison", "ava", "samantha", "susan", "vicki", "victoria", "daniel", "oliver", "serena"]
+  },
+  {
+    "language": "german",
+    "sentences": [
+      "Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich",
+      "Falsches Üben von Xylophonmusik quält jeden größeren Zwerg",
+      "Im finsteren Wald spazieren gleich fünf schnelle Jäger",
+      "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern"
+    ],
+    "voices": ["markus", "yannick", "anna", "petra"]
+  },
+  {
+    "language": "spanish",
+    "sentences": [
+      "El veloz murciélago hindú comía feliz cardillo y kiwi",
+      "Juan compró un bonito viejo abrigo de piel de zorro",
+      "El pingüino Wenceslao hizo kilómetros bajo exhaustiva lluvia y frío",
+      "Ángel amó a Aura y ella lo amó a él"
+    ],
+    "voices": ["carlos", "soledad", "juan", "angelica", "paulina", "jorge", "monica"]
+  },
+  {
+    "language": "italian",
+    "sentences": [
+      "Quel vituperabile xenofobo zelante giudicava i lenti maiali",
+      "La volpe marrone veloce salta sopra il cane pigro",
+      "Ma la volpe, col suo balzo, ha raggiunto il quieto Fido",
+      "Pranzo d'acqua fa volti sghembi"
+    ],
+    "voices": ["luca", "alice", "federica", "paola"]
+  },
+  {
+    "language": "french",
+    "sentences": [
+      "Portez ce vieux whisky au juge blond qui fume",
+      "Six troncs chers trônent dans la clairière",
+      "Le vif zéphyr jubile sur les kumquats du clavier",
+      "Buvons de ce vin dont le goulot s'ensable"
+    ],
+    "voices": ["thomas", "aurelie", "nicolas", "amelie", "chantal"]
+  },
+  {
+    "language": "portuguese",
+    "sentences": [
+      "Um pequeno jabuti xereta viu dez cegonhas felizes",
+      "Beto viu a uva, mas não viu o fato de que a uva estava verde",
+      "Poucos vêem o trabalho da formiga robusta",
+      "Vovô viu a uva"
+    ],
+    "voices": ["felipe", "luciana", "catarina", "joana"]
+  },
+  {
+    "language": "polish",
+    "sentences": [
+      "Wczoraj wieczorem wszyscy byli w bardzo dobrym nastroju",
+      "Ładna pani przyszła do naszego sklepu z drogimi skarpetkami",
+      "Pchnąć w tę łódź jeża lub ośm skrzyń fig",
+      "Film o szynach zajął gnój całą półkę"
+    ],
+    "voices": ["ewa", "zosia"]
+  },
+  {
+    "language": "korean",
+    "sentences": [
+      "가는 말이 고와야 오는 말이 곱다",
+      "어둠 속의 불꽃은 어둠을 비추지 않는다",
+      "밤에는 별이 반짝이고, 낮에는 햇빛이 눈부시다",
+      "나비는 꽃을 좋아하고, 고양이는 생선을 좋아한다"
+    ],
+    "voices": ["yuna"]
+  },
+  {
+    "language": "russian",
+    "sentences": [
+      "Съешь ещё этих мягких французских булок",
+      "В чащах юга жил-был цитрус? да, но фальшивый экземпляр!",
+      "Эх, чужак, общий съём цен шляп (юфть) – вдрызг!",
+      "Вид лисиц на юге ярче зелёных огней"
+    ],
+    "voices": ["milena"]
+  }
+]
